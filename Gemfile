@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'thin'
-gem 'mad_chatter', :git => 'git://github.com/madchatter/mad_chatter.git'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.4'
 # Use postgresql as the database for Active Record
