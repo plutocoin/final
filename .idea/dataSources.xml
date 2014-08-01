@@ -5,12 +5,16 @@
       <driver-ref>postgresql</driver-ref>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql:final_development</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>dfc9dfcbdfd8dfdedfc7dfcfdfc4df9bdf99df98</user-password>
       <libraries />
     </data-source>
     <data-source source="LOCAL" name="Rails final: test" uuid="7c93d4d6-edf4-4c0f-984b-714e1410aff2">
       <driver-ref>postgresql</driver-ref>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql:final_test</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>dfc9dfcbdfd8dfdedfc7dfcfdfc4df9bdf99df98</user-password>
       <libraries />
     </data-source>
     <data-source source="LOCAL" name="Rails final: production" uuid="696a135c-b04b-4dc3-866b-84bb0358cb28">
